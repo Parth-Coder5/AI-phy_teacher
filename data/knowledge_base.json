@@ -1,0 +1,192 @@
+[
+  {
+    "topic": "distance_displacement",
+    "section": "definition.distance",
+    "text": "Distance is the total length of the actual path travelled by an object. It does not depend on direction and is always a positive quantity."
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "definition.displacement",
+    "text": "Displacement is the shortest distance between the initial and final position of an object in a particular direction. It can be positive, negative, or zero."
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "nature.distance",
+    "text": "Scalar quantity (only magnitude)"
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "nature.displacement",
+    "text": "Vector quantity (magnitude + direction)"
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "formula.distance",
+    "text": "Total path length travelled"
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "formula.displacement",
+    "text": "Final position - Initial position"
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "example",
+    "text": "A person walks 3 m east and then 4 m west.\nDistance = 3 + 4 = 7 m\nDisplacement = 3 - 4 = -1 m (1 m towards west)"
+  },
+  {
+    "topic": "distance_displacement",
+    "section": "practice_question",
+    "text": "A boy walks 5 m north, then 5 m south.\nFind:\n1) Distance\n2) Displacement"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "definition.speed",
+    "text": "Speed is the distance travelled by an object per unit time. It tells how fast an object is moving but does not give direction."
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "definition.velocity",
+    "text": "Velocity is the displacement of an object per unit time. It tells both how fast and in which direction an object is moving."
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "nature.speed",
+    "text": "Scalar quantity (magnitude only)"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "nature.velocity",
+    "text": "Vector quantity (magnitude + direction)"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "formula.speed",
+    "text": "Speed = Distance / Time"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "formula.velocity",
+    "text": "Velocity = Displacement / Time"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "example",
+    "text": "A car travels 100 m east in 10 s.\nSpeed = 100 / 10 = 10 m/s\nVelocity = 100 / 10 = 10 m/s east"
+  },
+  {
+    "topic": "speed_velocity",
+    "section": "practice_question",
+    "text": "A runner completes one full circular track of radius 14 m in 28 s.\nFind:\n1) Speed\n2) Velocity"
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.acceleration",
+    "text": "Acceleration is the rate of change of velocity with respect to time. It tells how quickly velocity changes."
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.types.uniform",
+    "text": "Uniform acceleration means velocity changes by equal amounts in equal intervals of time."
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.types.non-uniform",
+    "text": "Non-uniform acceleration means velocity changes by unequal amounts in equal intervals of time."
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.formula",
+    "text": "Acceleration (a) = (Final velocity - Initial velocity) / Time"
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.nature",
+    "text": "Acceleration is a vector quantity (has magnitude and direction)."
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.example",
+    "text": "A car increases its velocity from 10 m/s to 30 m/s in 5 s.\na = (30 - 10) / 5 = 20 / 5 = 4 m/s\u00b2"
+  },
+  {
+    "topic": "acceleration",
+    "section": "definition.practice-question",
+    "text": "A bike slows down from 20 m/s to 5 m/s in 3 s.\nFind the acceleration."
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "equations.first",
+    "text": "v = u + at"
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "equations.second",
+    "text": "s = ut + (1/2)at^2"
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "equations.third",
+    "text": "v^2 - u^2 = 2as"
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "when_to_use.first",
+    "text": "Use when time, initial velocity and acceleration are known."
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "when_to_use.second",
+    "text": "Use when displacement, time, initial velocity and acceleration are involved."
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "when_to_use.third",
+    "text": "Use when time is not given."
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "example",
+    "text": "A body starts from rest (u = 0) and accelerates at 2 m/s\u00b2 for 5 s.\nUsing v = u + at:\nv = 0 + (2)(5) = 10 m/s"
+  },
+  {
+    "topic": "equations_of_motion",
+    "section": "practice_question",
+    "text": "A car moves with initial velocity 5 m/s and acceleration 3 m/s\u00b2 for 4 s.\nFind final velocity and displacement."
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "position_time.meaning",
+    "text": "In a position-time (x-t) graph, slope represents velocity."
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "position_time.important_points",
+    "text": "1. Straight line \u2192 constant velocity\n2. Horizontal line \u2192 object at rest\n3. Curve \u2192 changing velocity"
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "velocity_time.meaning",
+    "text": "In a velocity-time (v-t) graph, slope represents acceleration and area under the graph represents displacement."
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "velocity_time.important_points",
+    "text": "1. Straight line \u2192 constant acceleration\n2. Horizontal line \u2192 constant velocity\n3. Area under graph = displacement"
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "acceleration_time.meaning",
+    "text": "In an acceleration-time (a-t) graph, area under the graph represents change in velocity."
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "acceleration_time.important_points",
+    "text": "1. Horizontal line \u2192 constant acceleration\n2. Area under graph = change in velocity"
+  },
+  {
+    "topic": "graphs_motion",
+    "section": "practice_question",
+    "text": "If the v-t graph is a straight line passing through origin, what does it represent?"
+  }
+]
